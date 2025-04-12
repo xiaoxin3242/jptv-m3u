@@ -1,0 +1,309 @@
+#EXTM3U
+#EXTINF:-1,日本电视节目代录1
+https://flat-storage.oss-accelerate.aliyuncs.com/cloud-storage/2025-01/29/d60cb113-d738-4e1d-8a26-d16044489b31/d60cb113-d738-4e1d-8a26-d16044489b31.mp4
+#EXTINF:-1,QQ群：495578005
+https://jptv.sctysxjy.cn/1.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="NHK_G_1" tvg-name="NHK G" tvg-logo="" group-title="日本,综合",NHK G
+http://vthanh.utako.moe/NHK_G/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_E_1" tvg-name="NHK E" tvg-logo="" group-title="日本,教育",NHK E
+http://vthanh.utako.moe/NHK_E/index.m3u8
+
+#EXTINF:-1 tvg-id="Nippon_TV_1" tvg-name="日本テレビ" tvg-logo="" group-title="日本,综合",日本テレビ
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="TV_Asahi_1" tvg-name="テレビ朝日" tvg-logo="" group-title="日本,综合",テレビ朝日
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS_1" tvg-name="TBS" tvg-logo="" group-title="日本,综合",TBS
+http://vthanh.utako.moe/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="TV_Tokyo_1" tvg-name="テレビ東京" tvg-logo="" group-title="日本,综合",テレビ東京
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+
+#EXTINF:-1 tvg-id="Fuji_TV_1" tvg-name="フジテレビ" tvg-logo="" group-title="日本,综合",フジテレビ
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_2" tvg-name="NHK (备用)" tvg-logo="" group-title="日本,综合",NHK (备用)
+http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_3" tvg-name="NHK (备用2)" tvg-logo="" group-title="日本,综合",NHK (备用2)
+http://vthanh.utako.moe:8080/5eb251b5-95b9-46f8-baff-77526687367f.m3u8
+
+#EXTINF:-1 tvg-id="YTV_1" tvg-name="読売テレビ" tvg-logo="" group-title="日本,综合",読売テレビ
+http://vthanh.utako.moe/ytv/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC_1" tvg-name="ABCテレビ" tvg-logo="" group-title="日本,综合",ABCテレビ
+http://vthanh.utako.moe/abc/index.m3u8
+
+#EXTINF:-1 tvg-id="MBS_1" tvg-name="MBS毎日放送" tvg-logo="" group-title="日本,综合",MBS毎日放送
+http://vthanh.utako.moe/mbs/index.m3u8
+
+#EXTINF:-1 tvg-id="KTV_1" tvg-name="関西テレビ" tvg-logo="" group-title="日本,综合",関西テレビ
+http://vthanh.utako.moe/kansaitv/index.m3u8
+
+#EXTINF:-1 tvg-id="TVO_1" tvg-name="テレビ大阪" tvg-logo="" group-title="日本,综合",テレビ大阪
+http://vthanh.utako.moe/tvo/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_BS_1" tvg-name="NHK BS" tvg-logo="" group-title="日本,BS",NHK BS
+http://vthanh.utako.moe/NHK_BS/index.m3u8
+
+#EXTINF:-1 tvg-id="Animax_1" tvg-name="Animax" tvg-logo="" group-title="日本,动画",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+
+#EXTINF:-1 tvg-id="BS11_1" tvg-name="BS11" tvg-logo="" group-title="日本,BS",BS11
+http://luong.utako.moe/bsntva11/index.m3u8
+
+#EXTINF:-1 tvg-id="ATX_1" tvg-name="AT-X" tvg-logo="" group-title="日本,动画",AT-X
+http://vthanh.utako.moe:8080/5ef84ce6-e7c1-4655-9ca4-97eb65215195.m3u8
+
+#EXTINF:-1 tvg-id="Tokyo_MX1_1" tvg-name="Tokyo MX1" tvg-logo="" group-title="日本,综合",Tokyo MX1
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+
+#EXTINF:-1 tvg-id="Tokyo_MX2_1" tvg-name="Tokyo MX2" tvg-logo="" group-title="日本,综合",Tokyo MX2
+http://tv.utako.moe/mx2_testsignal/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_BS4K_1" tvg-name="NHK BSP4K" tvg-logo="" group-title="日本,BS,4K",NHK BSP4K
+http://luong.utako.moe/bsp4k_testsignal/index.m3u8
+
+#EXTINF:-1 tvg-id="Animax_2" tvg-name="Animax (备用)" tvg-logo="" group-title="日本,动画",Animax (备用)
+http://vthanh.utako.moe/4E656B6F_a/index.m3u8
+
+#EXTINF:-1 tvg-id="ATX_2" tvg-name="AT-X (备用)" tvg-logo="" group-title="日本,动画",AT-X (备用)
+http://vthanh.utako.moe/AT-X/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS_2" tvg-name="TBS (备用)" tvg-logo="" group-title="日本,综合",TBS (备用)
+https://tbs5.mov3.co/hls/tbs.m3u8
+
+#EXTINF:-1 tvg-id="Nippon_TV_2" tvg-name="日本テレビ (备用)" tvg-logo="" group-title="日本,综合",日本テレビ (备用)
+https://ntv4.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="Fuji_TV_2" tvg-name="フジテレビ (备用)" tvg-logo="" group-title="日本,综合",フジテレビ (备用)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-id="Fuji_TV_3" tvg-name="フジテレビ (备用2)" tvg-logo="" group-title="日本,综合",フジテレビ (备用2)
+https://stream1.freetv.fun/fuji-tv-1.m3u8
+
+#EXTINF:-1 tvg-id="NHK_4" tvg-name="NHK (备用3)" tvg-logo="" group-title="日本,综合",NHK (备用3)
+https://tinyurl.com/sxd3e9xt
+
+#EXTINF:-1 tvg-id="NHK_5" tvg-name="NHK (备用4)" tvg-logo="" group-title="日本,综合",NHK (备用4)
+https://tinyurl.com/ykdwu3v5
+
+#EXTINF:-1 tvg-id="Nippon_TV_3" tvg-name="日本テレビ (备用2)" tvg-logo="" group-title="日本,综合",日本テレビ (备用2)
+https://tinyurl.com/3h6udude
+
+#EXTINF:-1 tvg-id="TBS_3" tvg-name="TBS (备用2)" tvg-logo="" group-title="日本,综合",TBS (备用2)
+https://tinyurl.com/yhv7pzw3
+
+#EXTINF:-1 tvg-id="TV_Asahi_2" tvg-name="テレビ朝日 (备用)" tvg-logo="" group-title="日本,综合",テレビ朝日 (备用)
+https://tinyurl.com/f6h3me22
+
+#EXTINF:-1 tvg-id="NHK_6" tvg-name="NHK (备用5)" tvg-logo="" group-title="日本,综合",NHK (备用5)
+https://tinyurl.com/5p6xaa23
+
+#EXTINF:-1 tvg-id="TV_X5_1" tvg-name="テレビX5" tvg-logo="" group-title="日本,综合",テレビX5
+http://main5.mov3.co/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="NHK_7" tvg-name="NHK (备用6)" tvg-logo="" group-title="日本,综合",NHK (备用6)
+https://nhk4.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-id="QVC_1" tvg-name="QVC" tvg-logo="" group-title="日本,购物",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+#EXTINF:-1 tvg-id="Neco_1" tvg-name="Neco" tvg-logo="" group-title="日本,电影",Neco
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Toei_1" tvg-name="Toei" tvg-logo="" group-title="日本,电影",Toei
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="NHK_8" tvg-name="NHK (willfonk)" tvg-logo="" group-title="日本,综合",NHK (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="NHK_E_2" tvg-name="NHK E (willfonk)" tvg-logo="" group-title="日本,教育",NHK E (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Nippon_TV_4" tvg-name="日本テレビ (willfonk)" tvg-logo="" group-title="日本,综合",日本テレビ (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="TV_Asahi_3" tvg-name="テレビ朝日 (willfonk)" tvg-logo="" group-title="日本,综合",テレビ朝日 (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="TBS_4" tvg-name="TBS (willfonk)" tvg-logo="" group-title="日本,综合",TBS (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="TV_Tokyo_2" tvg-name="テレビ東京 (willfonk)" tvg-logo="" group-title="日本,综合",テレビ東京 (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Fuji_TV_4" tvg-name="フジテレビ (willfonk)" tvg-logo="" group-title="日本,综合",フジテレビ (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="ATX_3" tvg-name="AT-X (备用2)" tvg-logo="" group-title="日本,动画",AT-X (备用2)
+https://neetball.net/live/neet3.m3u8
+
+#EXTINF:-1 tvg-id="NHK_BS1" tvg-name="NHK BS1" tvg-logo="" group-title="日本,BS",NHK BS1
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="NHK_E_3" tvg-name="NHK教育 (日本放送協會教育頻道)" tvg-logo="" group-title="日本,教育",NHK教育 (日本放送協會教育頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="NHK_G_2" tvg-name="NHK総合 (日本放送協會綜合頻道)" tvg-logo="" group-title="日本,综合",NHK総合 (日本放送協會綜合頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="TV_Asahi_4" tvg-name="テレビ朝日 (朝日電視台)" tvg-logo="" group-title="日本,综合",テレビ朝日 (朝日電視台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="TV_Tokyo_3" tvg-name="テレビ東京 (東京電視台)" tvg-logo="" group-title="日本,综合",テレビ東京 (東京電視台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Nippon_TV_5" tvg-name="日本テレビ (日本電視台)" tvg-logo="" group-title="日本,综合",日本テレビ (日本電視台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Fuji_TV_5" tvg-name="フジテレビ (富士電視台)" tvg-logo="" group-title="日本,综合",フジテレビ (富士電視台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Nippon_TV_NEWS24" tvg-name="日テレNEWS24 (日本電視台有線新聞台)" tvg-logo="" group-title="日本,新闻",日テレNEWS24 (日本電視台有線新聞台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Nippon_TV_G_PLUS" tvg-name="日テレジータス" tvg-logo="" group-title="日本,体育",日テレジータス
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Channel_NECO" tvg-name="映画・チャンネルNECO (日本電影專門頻道)" tvg-logo="" group-title="日本,电影",映画・チャンネルNECO (日本電影專門頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Super_Drama_TV" tvg-name="スーパー！ドラマTV (超級！戲劇電視)" tvg-logo="" group-title="日本,剧集",スーパー！ドラマTV (超級！戲劇電視)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="AXN_1" tvg-name="AXN" tvg-logo="" group-title="日本,剧集",AXN
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="FOX_1" tvg-name="FOX" tvg-logo="" group-title="日本,剧集",FOX
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CNN_J" tvg-name="CNNj" tvg-logo="" group-title="日本,新闻",CNNj
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Music_On_TV" tvg-name="エムオン！" tvg-logo="" group-title="日本,音乐",エムオン！
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="LaLa_TV_1" tvg-name="女性ch/LaLa" tvg-logo="" group-title="日本,娱乐",女性ch/LaLa
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="GAORA_1" tvg-name="GAORA (株式會社每日放送頻道)" tvg-logo="" group-title="日本,体育",GAORA (株式會社每日放送頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Fishing_Vision" tvg-name="釣りビジョン (釣魚視覺頻道)" tvg-logo="" group-title="日本,娱乐",釣りビジョン (釣魚視覺頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Toei_Channel" tvg-name="東映チャンネル (東映頻道)" tvg-logo="" group-title="日本,电影",東映チャンネル (東映頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Kayo_Pops" tvg-name="歌謡ポップスチャンネル (Kayo Pops)" tvg-logo="" group-title="日本,音乐",歌謡ポップスチャンネル (Kayo Pops)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Japan_Movie_Channel" tvg-name="日本映画専門チャンネル (日本電影頻道)" tvg-logo="" group-title="日本,电影",日本映画専門チャンネル (日本電影頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Channel_Ginga" tvg-name="チャンネル銀河 (銀河頻道)" tvg-logo="" group-title="日本,综合",チャンネル銀河 (銀河頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Channel_NECO_2" tvg-name="チャンネルNECO (日活株式會社尼科頻道)" tvg-logo="" group-title="日本,电影",チャンネルNECO (日活株式會社尼科頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Family_Gekijyo" tvg-name="ファミリー劇場 (家庭劇場頻道)" tvg-logo="" group-title="日本,剧集",ファミリー劇場 (家庭劇場頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Home_Drama_Channel" tvg-name="ホームドラマチャンネル (松竹放送株式會社電視劇頻道)" tvg-logo="" group-title="日本,剧集",ホームドラマチャンネル (松竹放送株式會社電視劇頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Movie_Plus" tvg-name="ムービープラス (探索日本株式會社電影Plus頻道)" tvg-logo="" group-title="日本,电影",ムービープラス (探索日本株式會社電影Plus頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Jidaigeki_Channel" tvg-name="時代劇専門チャンネル (日本電影放送株式會社時代劇專業頻道)" tvg-logo="" group-title="日本,剧集",時代劇専門チャンネル (日本電影放送株式會社時代劇專業頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Igo_Shogi_Channel" tvg-name="囲碁・将棋チャンネル (圍棋/將棋頻道)" tvg-logo="" group-title="日本,棋类",囲碁・将棋チャンネル (圍棋/將棋頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS_Animax" tvg-name="BSアニマックス (索尼動畫日本衛星頻道)" tvg-logo="" group-title="日本,动画",BSアニマックス (索尼動畫日本衛星頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS_TV_Tokyo" tvg-name="BSテレ東 (東京電視台衛星電視頻道)" tvg-logo="" group-title="日本,BS",BSテレ東 (東京電視台衛星電視頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="GAORA_2" tvg-name="GAORA" tvg-logo="" group-title="日本,体育",GAORA
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="JSPORTS_1" tvg-name="J SPORTS 1" tvg-logo="" group-title="日本,体育",J SPORTS 1
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="JSPORTS_2" tvg-name="J SPORTS 2" tvg-logo="" group-title="日本,体育",J SPORTS 2
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="JSPORTS_3" tvg-name="J SPORTS 3" tvg-logo="" group-title="日本,体育",J SPORTS 3
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="JSPORTS_4" tvg-name="J SPORTS 4" tvg-logo="" group-title="日本,体育",J SPORTS 4
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="LaLa_TV_2" tvg-name="LaLaTV (探索日本株式會社啦啦電視台)" tvg-logo="" group-title="日本,娱乐",LaLaTV (探索日本株式會社啦啦電視台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOWシネマ" tvg-logo="" group-title="日本,电影",WOWOWシネマ
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-name="WOWOWプライム" tvg-logo="" group-title="日本,综合",WOWOWプライム
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOWライブ" tvg-logo="" group-title="日本,综合",WOWOWライブ
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Kids_Station" tvg-name="キッズステーション" tvg-logo="" group-title="日本,儿童",キッズステーション
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Golf_Network" tvg-name="ゴルフネットワーク" tvg-logo="" group-title="日本,体育",ゴルフネットワーク
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Super_Drama_TV_2" tvg-name="スーパー!ドラマTV" tvg-logo="" group-title="日本,剧集",スーパー!ドラマTV
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Sky_A" tvg-name="スカイA (朝日放送天空A頻道)" tvg-logo="" group-title="日本,体育",スカイA (朝日放送天空A頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Star_Channel_1" tvg-name="スターチャンネル1" tvg-logo="" group-title="日本,电影",スターチャンネル1
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Star_Channel_2" tvg-name="スターチャンネル2" tvg-logo="" group-title="日本,电影",スターチャンネル2
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Star_Channel_3" tvg-name="スターチャンネル3" tvg-logo="" group-title="日本,电影",スターチャンネル3
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Star_Channel_1_ALT" tvg-name="Star Channel 1" tvg-logo="" group-title="日本,电影",Star Channel 1
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Star_Channel_2_ALT" tvg-name="Star Channel 2" tvg-logo="" group-title="日本,电影",Star Channel 2
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Star_Channel_3_ALT" tvg-name="Star Channel 3" tvg-logo="" group-title="日本,电影",Star Channel 3
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Toei_Channel_2" tvg-name="東映チャンネル" tvg-logo="" group-title="日本,电影",東映チャンネル
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Eisei_Gekijo" tvg-name="衛星劇場" tvg-logo="" group-title="日本,剧集",衛星劇場
+http://code.vthanhtivi.pw/getlink/jptv1/FcJRBrNCLHjS9wKtD2rz7g==/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel_NECO_3" tvg-name="映画・チャンネルNECO" tvg-logo="" group-title="日本,电影",映画・チャンネルNECO
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Movie_Plus_2" tvg-name="ムービープラス" tvg-logo="" group-title="日本,电影",ムービープラス
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf
+
+#EXTINF:-1 tvg-id="Sky_A_2" tvg-name="スカイ・A" tvg-logo="" group-title="日本,体育",スカイ・A
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="GAORA_3" tvg-name="GAORA (備用)" tvg-logo="" group-title="日本,体育",GAORA (備用)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1

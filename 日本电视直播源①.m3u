@@ -1,0 +1,312 @@
+#EXTM3U
+#EXTINF:-1,日本电视节目代录1
+https://flat-storage.oss-accelerate.aliyuncs.com/cloud-storage/2025-01/29/d60cb113-d738-4e1d-8a26-d16044489b31/d60cb113-d738-4e1d-8a26-d16044489b31.mp4
+#EXTINF:-1,QQ群：495578005
+https://jptv.sctysxjy.cn/1.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="NTV_NEWS24" tvg-name="NTV NEWS24" tvg-logo="" group-title="日本,新闻",NTV NEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+
+#EXTINF:-1 tvg-id="NHK_WORLD" tvg-name="NHK WORLD" tvg-logo="" group-title="日本,新闻",NHK WORLD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="BS291" tvg-name="NHK G" tvg-logo="" group-title="日本,综合",NHK G
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS292" tvg-name="NHK E" tvg-logo="" group-title="日本,教育",NHK E
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS294" tvg-name="Nippon TV" tvg-logo="" group-title="日本,综合",Nippon TV
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS296" tvg-name="TBS" tvg-logo="" group-title="日本,综合",TBS
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS298" tvg-name="Fuji TV" tvg-logo="" group-title="日本,综合",Fuji TV
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS295" tvg-name="TV Asahi" tvg-logo="" group-title="日本,综合",TV Asahi
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS297" tvg-name="TV TOKYO" tvg-logo="" group-title="日本,综合",TV TOKYO
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS101" tvg-name="NHK BS" tvg-logo="" group-title="日本,BS",NHK BS
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS103" tvg-name="NHK BSP4K" tvg-logo="" group-title="日本,BS,4K",NHK BSP4K
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS141" tvg-name="BS日テレ" tvg-logo="" group-title="日本,BS",BS日テレ
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS151" tvg-name="BS朝日" tvg-logo="" group-title="日本,BS",BS朝日
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS161" tvg-name="BS-TBS" tvg-logo="" group-title="日本,BS",BS-TBS
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS171" tvg-name="BSテレ東" tvg-logo="" group-title="日本,BS",BSテレ東
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS181" tvg-name="BSフジ" tvg-logo="" group-title="日本,BS",BSフジ BS富士
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS191" tvg-name="WOWOW Prime" tvg-logo="" group-title="日本,BS,电影",WOWOW Prime
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS192" tvg-name="WOWOW Live" tvg-logo="" group-title="日本,BS,直播",WOWOW Live
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS193" tvg-name="WOWOW Cinema" tvg-logo="" group-title="日本,BS,电影",WOWOW Cinema
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS200" tvg-name="Star Channel 1" tvg-logo="" group-title="日本,BS,电影",スターチャンネル1 Star1星空频道
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS201" tvg-name="Star Channel 2" tvg-logo="" group-title="日本,BS,电影",スターチャンネル2 Star2星空频道
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS202" tvg-name="Star Channel 3" tvg-logo="" group-title="日本,BS,电影",スターチャンネル3 Star3星空频道
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS236" tvg-name="BS Animax" tvg-logo="" group-title="日本,BS,动画",BSアニマックス Animax
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS251" tvg-name="釣りビジョン" tvg-logo="" group-title="日本,BS,钓鱼",釣りビジョン
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS241" tvg-name="BSスカパー!" tvg-logo="" group-title="日本,BS",BSスカパー!
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS242" tvg-name="JSPORTS 1" tvg-logo="" group-title="日本,BS,体育",JSPORTS 1
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS243" tvg-name="JSPORTS 2" tvg-logo="" group-title="日本,BS,体育",JSPORTS 2
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS244" tvg-name="JSPORTS 3" tvg-logo="" group-title="日本,BS,体育",JSPORTS 3
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS245" tvg-name="JSPORTS 4" tvg-logo="" group-title="日本,BS,体育",JSPORTS 4
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS255" tvg-name="日本映画専門チャンネル" tvg-logo="" group-title="日本,BS,电影",日本映画専門チャンネル
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS292" tvg-name="時代劇専門チャンネル" tvg-logo="" group-title="日本,CS,历史剧",時代劇専門チャンネル
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS311" tvg-name="AXN海外ドラマ" tvg-logo="" group-title="日本,CS,海外剧",AXN海外ドラマ
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS312" tvg-name="FOX" tvg-logo="" group-title="日本,CS",FOX
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS305" tvg-name="チャンネル銀河" tvg-logo="" group-title="日本,CS",チャンネル銀河
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS293" tvg-name="ファミリー劇場" tvg-logo="" group-title="日本,CS,家庭剧",Family剧场 (ファミリー劇場)
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS262" tvg-name="ゴルフネットワーク" tvg-logo="" group-title="日本,CS,高尔夫",ゴルフネットワーク
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS329" tvg-name="歌謡ポップスチャンネル" tvg-logo="" group-title="日本,CS,音乐",歌謡ポップスチャンネル
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS330" tvg-name="Kids Station" tvg-logo="" group-title="日本,CS,儿童",Kids Station (キッズステーション)
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS294" tvg-name="ホームドラマチャンネル" tvg-logo="" group-title="日本,CS,韩剧",ホームドラマチャンネル - 韓流ドラマ・K－POP、時代劇
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS314" tvg-name="LaLaTV" tvg-logo="" group-title="日本,CS",LaLaTV
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS257" tvg-name="日テレジータス" tvg-logo="" group-title="日本,CS,体育",日テレジータス
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS223" tvg-name="映画・チャンネルNECO" tvg-logo="" group-title="日本,CS,电影",映画・チャンネルNECO
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS240" tvg-name="ムービープラス" tvg-logo="" group-title="日本,CS,电影",ムービープラス 映画専門チャンネル
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS325" tvg-name="Music ON TV!" tvg-logo="" group-title="日本,CS,音乐",Music ON TV!
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS218" tvg-name="東映チャンネル" tvg-logo="" group-title="日本,CS,电影",東映チャンネル
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS363" tvg-name="囲碁・将棋チャンネル" tvg-logo="" group-title="日本,CS,棋类",囲碁・将棋チャンネル
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS310" tvg-name="海外ドラマ専門チャンネル" tvg-logo="" group-title="日本,CS,海外剧",海外ドラマ専門チャンネル
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS250" tvg-name="スカイA" tvg-logo="" group-title="日本,CS,体育",スカイA Sky A CS广播体育频道
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS254" tvg-name="GAORA" tvg-logo="" group-title="日本,CS,体育",GAORA CS体育频道
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS354" tvg-name="CNN J" tvg-logo="" group-title="日本,CS,新闻",CNN J
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS349" tvg-name="日テレNEWS24" tvg-logo="" group-title="日本,CS,新闻",日テレNEWS24
+https://i.loadbt.tk/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS291_ALT" tvg-name="NHK総合" tvg-logo="" group-title="日本,地面波",NHK総合
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS292_ALT" tvg-name="NHK教育" tvg-logo="" group-title="日本,地面波",NHK教育
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS294_ALT" tvg-name="日本テレビ" tvg-logo="" group-title="日本,地面波",日本テレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS296_ALT" tvg-name="TBSテレビ" tvg-logo="" group-title="日本,地面波",TBSテレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS298_ALT" tvg-name="フジテレビ" tvg-logo="" group-title="日本,地面波",フジテレビ Fujitv 富士电视台
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS295_ALT" tvg-name="テレビ朝日" tvg-logo="" group-title="日本,地面波",テレビ朝日
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS297_ALT" tvg-name="テレビ東京" tvg-logo="" group-title="日本,地面波",テレビ東京
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS101_ALT" tvg-name="NHK BS1" tvg-logo="" group-title="日本,BS",NHK BS1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS103_ALT" tvg-name="NHK BSプレミアム" tvg-logo="" group-title="日本,BS",NHK BSプレミアム NHK BS Premium
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS141_ALT" tvg-name="BS日テレ" tvg-logo="" group-title="日本,BS",BS日テレ BS日本
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS151_ALT" tvg-name="BS朝日" tvg-logo="" group-title="日本,BS",BS朝日
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS161_ALT" tvg-name="BS-TBS" tvg-logo="" group-title="日本,BS",BS-TBS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS171_ALT" tvg-name="BSテレ東" tvg-logo="" group-title="日本,BS",BSテレ東 BS东视
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS181_ALT" tvg-name="BSフジ" tvg-logo="" group-title="日本,BS",BSフジ BS富士
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS191_ALT" tvg-name="WOWOWプライム" tvg-logo="" group-title="日本,BS,电影",WOWOWプライム
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS192_ALT" tvg-name="WOWOWライブ" tvg-logo="" group-title="日本,BS,直播",WOWOWライブ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS193_ALT" tvg-name="WOWOWシネマ" tvg-logo="" group-title="日本,BS,电影",WOWOWシネマ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS200_ALT" tvg-name="スターチャンネル1" tvg-logo="" group-title="日本,BS,电影",スターチャンネル1星空频道
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS201_ALT" tvg-name="スターチャンネル2" tvg-logo="" group-title="日本,BS,电影",スターチャンネル2星空频道
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS202_ALT" tvg-name="スターチャンネル3" tvg-logo="" group-title="日本,BS,电影",スターチャンネル3星空频道
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS236_ALT" tvg-name="BSアニマックス" tvg-logo="" group-title="日本,BS,动画",BSアニマックス Animax
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS251_ALT" tvg-name="釣りビジョン" tvg-logo="" group-title="日本,BS,钓鱼",釣りビジョン
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS241_ALT" tvg-name="BSスカパー!" tvg-logo="" group-title="日本,BS",BSスカパー!
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS242_ALT" tvg-name="JSPORTS 1" tvg-logo="" group-title="日本,BS,体育",JSPORTS 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS243_ALT" tvg-name="JSPORTS 2" tvg-logo="" group-title="日本,BS,体育",JSPORTS 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS244_ALT" tvg-name="JSPORTS 3" tvg-logo="" group-title="日本,BS,体育",JSPORTS 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS245_ALT" tvg-name="JSPORTS 4" tvg-logo="" group-title="日本,BS,体育",JSPORTS 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS255_ALT" tvg-name="日本映画専門チャンネル" tvg-logo="" group-title="日本,BS,电影",日本映画専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS292_ALT" tvg-name="時代劇専門チャンネル" tvg-logo="" group-title="日本,CS,历史剧",時代劇専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS311_ALT" tvg-name="AXN海外ドラマ" tvg-logo="" group-title="日本,CS,海外剧",AXN海外ドラマ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS312_ALT" tvg-name="FOX" tvg-logo="" group-title="日本,CS",FOX
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS305_ALT" tvg-name="チャンネル銀河" tvg-logo="" group-title="日本,CS",チャンネル銀河
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS293_ALT" tvg-name="ファミリー劇場" tvg-logo="" group-title="日本,CS,家庭剧",ファミリー劇場
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS262_ALT" tvg-name="ゴルフネットワーク" tvg-logo="" group-title="日本,CS,高尔夫",ゴルフネットワーク
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS329_ALT" tvg-name="歌謡ポップスチャンネル" tvg-logo="" group-title="日本,CS,音乐",歌謡ポップスチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS330_ALT" tvg-name="キッズステーション" tvg-logo="" group-title="日本,CS,儿童",キッズステーション
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS294_ALT" tvg-name="ホームドラマチャンネル" tvg-logo="" group-title="日本,CS,韩剧",ホームドラマチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS314_ALT" tvg-name="LaLaTV" tvg-logo="" group-title="日本,CS",LaLaTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS257_ALT" tvg-name="日テレジータス" tvg-logo="" group-title="日本,CS,体育",日テレジータス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS223_ALT" tvg-name="チャンネルNECO" tvg-logo="" group-title="日本,CS,电影",チャンネルNECO
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS240_ALT" tvg-name="ムービープラス" tvg-logo="" group-title="日本,CS,电影",ムービープラス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS325_ALT" tvg-name="Music ON TV!" tvg-logo="" group-title="日本,CS,音乐",Music ON TV!
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS218_ALT" tvg-name="東映チャンネル" tvg-logo="" group-title="日本,CS,电影",東映チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS363_ALT" tvg-name="囲碁・将棋チャンネル" tvg-logo="" group-title="日本,CS,棋类",囲碁・将棋チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS310_ALT" tvg-name="海外ドラマ専門チャンネル" tvg-logo="" group-title="日本,CS,海外剧",海外ドラマ専門チ スーパー!ドラマTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS250_ALT" tvg-name="スカイA" tvg-logo="" group-title="日本,CS,体育",スカイA
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS354_ALT" tvg-name="CNN J" tvg-logo="" group-title="日本,CS,新闻",CNN J
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CS349_ALT" tvg-name="日テレNEWS24" tvg-logo="" group-title="日本,CS,新闻",日テレNEWS24
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS200_HD" tvg-name="Star 1 HD" tvg-logo="" group-title="日本,BS,电影",Star 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS201_HD" tvg-name="Star 2 HD" tvg-logo="" group-title="日本,BS,电影",Star 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BS202_HD" tvg-name="Star 3 HD" tvg-logo="" group-title="日本,BS,电影",Star 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1

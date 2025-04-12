@@ -1,0 +1,351 @@
+#EXTM3U
+#EXTINF:-1,日本电视节目代录1
+https://flat-storage.oss-accelerate.aliyuncs.com/cloud-storage/2025-01/29/d60cb113-d738-4e1d-8a26-d16044489b31/d60cb113-d738-4e1d-8a26-d16044489b31.mp4
+#EXTINF:-1,QQ群：495578005
+https://jptv.sctysxjy.cn/1.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="NHK_G_1" tvg-name="NHK G" tvg-logo="" group-title="日本,综合",NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=4
+
+#EXTINF:-1 tvg-id="NHK_E_1" tvg-name="NHK E" tvg-logo="" group-title="日本,教育",NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
+
+#EXTINF:-1 tvg-id="Nippon_TV_1" tvg-name="日本テレビ" tvg-logo="" group-title="日本,综合",日本テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=4
+
+#EXTINF:-1 tvg-id="TBS_1" tvg-name="TBS" tvg-logo="" group-title="日本,综合",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
+
+#EXTINF:-1 tvg-id="Fuji_TV_1" tvg-name="フジテレビ" tvg-logo="" group-title="日本,综合",フジテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
+
+#EXTINF:-1 tvg-id="TV_Asahi_1" tvg-name="テレビ朝日" tvg-logo="" group-title="日本,综合",テレビ朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
+
+#EXTINF:-1 tvg-id="TV_Tokyo_1" tvg-name="テレビ東京" tvg-logo="" group-title="日本,综合",テレビ東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
+
+#EXTINF:-1 tvg-id="Tokyo_MX_1" tvg-name="TOKYO MX" tvg-logo="" group-title="日本,综合",TOKYO MX
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=4
+
+#EXTINF:-1 tvg-id="MBS_1" tvg-name="MBS毎日放送" tvg-logo="" group-title="日本,关西",MBS毎日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=4
+
+#EXTINF:-1 tvg-id="ABC_1" tvg-name="ABCテレビ" tvg-logo="" group-title="日本,关西",ABCテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=4
+
+#EXTINF:-1 tvg-id="Kansai_TV_1" tvg-name="関西テレビ" tvg-logo="" group-title="日本,关西",関西テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=4
+
+#EXTINF:-1 tvg-id="YTV_1" tvg-name="読売テレビ" tvg-logo="" group-title="日本,关西",読売テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=4
+
+#EXTINF:-1 tvg-id="TV_Osaka_1" tvg-name="テレビ大阪" tvg-logo="" group-title="日本,关西",テレビ大阪
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=4
+
+#EXTINF:-1 tvg-id="NHK_KANSAI_1" tvg-name="NHK关西" tvg-logo="" group-title="日本,关西",NHK关西
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=4
+
+#EXTINF:-1 tvg-id="SUN_TV_1" tvg-name="サンテレビSUN" tvg-logo="" group-title="日本,关西",サンテレビSUN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=4
+
+#EXTINF:-1 tvg-id="NHK_BS_1" tvg-name="NHK BS" tvg-logo="" group-title="日本,BS",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=4
+
+#EXTINF:-1 tvg-id="BS_Nippon_1" tvg-name="BS日テレ" tvg-logo="" group-title="日本,BS",BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=4
+
+#EXTINF:-1 tvg-id="BS_Asahi_1" tvg-name="BS朝日" tvg-logo="" group-title="日本,BS",BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=4
+
+#EXTINF:-1 tvg-id="BS_4" tvg-name="BS 4" tvg-logo="" group-title="日本,BS",BS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=4
+
+#EXTINF:-1 tvg-id="BS_5" tvg-name="BS 5" tvg-logo="" group-title="日本,BS",BS 5
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=4
+
+#EXTINF:-1 tvg-id="BS_6" tvg-name="BS 6" tvg-logo="" group-title="日本,BS",BS 6
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=4
+
+#EXTINF:-1 tvg-id="WOWOW_1" tvg-name="WOWOW" tvg-logo="" group-title="日本,BS,付费",WOWOW
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=4
+
+#EXTINF:-1 tvg-id="Star_1" tvg-name="Star Channel" tvg-logo="" group-title="日本,BS,电影",Star Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=4
+
+#EXTINF:-1 tvg-id="NHK_BS_2" tvg-name="NHK BS (备用)" tvg-logo="" group-title="日本,BS",NHK BS (备用)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=4
+
+#EXTINF:-1 tvg-id="WOWOW_2" tvg-name="WOWOW (备用)" tvg-logo="" group-title="日本,BS,付费",WOWOW (备用)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=4
+
+#EXTINF:-1 tvg-id="GREEN_1" tvg-name="GREEN Channel" tvg-logo="" group-title="日本,BS,体育",GREEN Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=4
+
+#EXTINF:-1 tvg-id="BS_15" tvg-name="BS 15" tvg-logo="" group-title="日本,BS",BS 15
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=4
+
+#EXTINF:-1 tvg-id="J_SPORTS_1" tvg-name="J SPORTS 1" tvg-logo="" group-title="日本,BS,体育",J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
+
+#EXTINF:-1 tvg-id="J_SPORTS_2" tvg-name="J SPORTS 2" tvg-logo="" group-title="日本,BS,体育",J SPORTS 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
+
+#EXTINF:-1 tvg-id="WOWOW_3" tvg-name="WOWOW (备用2)" tvg-logo="" group-title="日本,BS,付费",WOWOW (备用2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=4
+
+#EXTINF:-1 tvg-id="J_SPORTS_3" tvg-name="J SPORTS 3" tvg-logo="" group-title="日本,BS,体育",J SPORTS 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
+
+#EXTINF:-1 tvg-id="J_SPORTS_4" tvg-name="J SPORTS 4" tvg-logo="" group-title="日本,BS,体育",J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
+
+#EXTINF:-1 tvg-id="Nihon_Eiga_1" tvg-name="日本映画専門チャンネル" tvg-logo="" group-title="日本,BS,电影",日本映画専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=4
+
+#EXTINF:-1 tvg-id="Disney_1" tvg-name="Disney Channel" tvg-logo="" group-title="日本,BS,儿童",Disney Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
+
+#EXTINF:-1 tvg-id="Fishing_Vision_1" tvg-name="BS釣りビジョン" tvg-logo="" group-title="日本,BS,娱乐",BS釣りビジョン
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=4
+
+#EXTINF:-1 tvg-id="Space_Shower_1" tvg-name="スペースシャワーTV/SPACE" tvg-logo="" group-title="日本,BS,音乐",スペースシャワーTV/SPACE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
+
+#EXTINF:-1 tvg-id="Star_2" tvg-name="Star Channel 2" tvg-logo="" group-title="日本,BS,电影",Star Channel 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=4
+
+#EXTINF:-1 tvg-id="Star_3" tvg-name="Star Channel 3" tvg-logo="" group-title="日本,BS,电影",Star Channel 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=4
+
+#EXTINF:-1 tvg-id="BS_31" tvg-name="BS 31" tvg-logo="" group-title="日本,BS",BS 31
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=4
+
+#EXTINF:-1 tvg-id="Sky_A_1" tvg-name="スカイ・A" tvg-logo="" group-title="日本,CS,体育",スカイ・A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=4
+
+#EXTINF:-1 tvg-id="Nittele_G_Plus_1" tvg-name="日テレジータス" tvg-logo="" group-title="日本,CS,体育",日テレジータス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=4
+
+#EXTINF:-1 tvg-id="Golf_Network_1" tvg-name="ゴルフネットワーク/GOLF" tvg-logo="" group-title="日本,CS,体育",ゴルフネットワーク/GOLF
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=4
+
+#EXTINF:-1 tvg-id="Jidaigeki_1" tvg-name="時代劇専門チャンネル" tvg-logo="" group-title="日本,CS,剧集",時代劇専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=4
+
+#EXTINF:-1 tvg-id="Home_Drama_1" tvg-name="ホームドラマチャンネル" tvg-logo="" group-title="日本,CS,剧集",ホームドラマチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=4
+
+#EXTINF:-1 tvg-id="Music_Japan_1" tvg-name="ミュージック・ジャパンTV/MUSIC" tvg-logo="" group-title="日本,CS,音乐",ミュージック・ジャパンTV/MUSIC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
+
+#EXTINF:-1 tvg-id="KIDS_1" tvg-name="KIDS" tvg-logo="" group-title="日本,CS,儿童",KIDS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
+
+#EXTINF:-1 tvg-id="Discovery_1" tvg-name="Discovery" tvg-logo="" group-title="日本,CS,纪录",Discovery
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=4
+
+#EXTINF:-1 tvg-id="HISTORY_1" tvg-name="HISTORY" tvg-logo="" group-title="日本,CS,纪录",HISTORY
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=4
+
+#EXTINF:-1 tvg-id="National_Geographic_1" tvg-name="ナショナル ジオグラフィック" tvg-logo="" group-title="日本,CS,纪录",ナショナル ジオグラフィック
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=4
+
+#EXTINF:-1 tvg-id="TBS_CS_1" tvg-name="TBS チャンネル" tvg-logo="" group-title="日本,CS,综合",TBS チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
+
+#EXTINF:-1 tvg-id="Travel_Channel_1" tvg-name="旅チャンネル" tvg-logo="" group-title="日本,CS,旅游",旅チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=4
+
+#EXTINF:-1 tvg-id="Kayo_Pops_1" tvg-name="歌謡ポップスチャンネル" tvg-logo="" group-title="日本,CS,音乐",歌謡ポップスチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=4
+
+#EXTINF:-1 tvg-id="Movie_Plus_1" tvg-name="ムービープラス" tvg-logo="" group-title="日本,CS,电影",ムービープラス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
+
+#EXTINF:-1 tvg-id="BBC_1" tvg-name="BBC World News" tvg-logo="" group-title="日本,CS,新闻",BBC World News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=4
+
+#EXTINF:-1 tvg-id="CNN_1" tvg-name="CNN" tvg-logo="" group-title="日本,CS,新闻",CNN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=4
+
+#EXTINF:-1 tvg-id="GAORA_1" tvg-name="GAORA" tvg-logo="" group-title="日本,CS,体育",GAORA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=4
+
+#EXTINF:-1 tvg-id="MTV_1" tvg-name="MTV" tvg-logo="" group-title="日本,CS,音乐",MTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=4
+
+#EXTINF:-1 tvg-id="LaLa_TV_1" tvg-name="女性チャンネル♪LaLa" tvg-logo="" group-title="日本,CS,娱乐",女性チャンネル♪LaLa
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=4
+
+#EXTINF:-1 tvg-id="Family_Gekijo_1" tvg-name="ファミリー劇場" tvg-logo="" group-title="日本,CS,剧集",ファミリー劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=4
+
+#EXTINF:-1 tvg-id="MONDO_TV_1" tvg-name="MONDO TV" tvg-logo="" group-title="日本,CS,综合",MONDO TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=4
+
+#EXTINF:-1 tvg-id="Eisei_Gekijo_1" tvg-name="衛星劇場" tvg-logo="" group-title="日本,CS,剧集",衛星劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=4
+
+#EXTINF:-1 tvg-id="Disney_2" tvg-name="Disney Channel (CS)" tvg-logo="" group-title="日本,CS,儿童",Disney Channel (CS)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=4
+
+#EXTINF:-1 tvg-id="Animal_Planet_1" tvg-name="アニマルプラネット/animal" tvg-logo="" group-title="日本,CS,纪录",アニマルプラネット/animal
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=4
+
+#EXTINF:-1 tvg-id="Cartoon_Network_1" tvg-name="Cartoon Network" tvg-logo="" group-title="日本,CS,动画",Cartoon Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=4
+
+#EXTINF:-1 tvg-id="Fuji_TV_NEXT_1" tvg-name="フジテレビNEXT" tvg-logo="" group-title="日本,CS,综合",フジテレビNEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=4
+
+#EXTINF:-1 tvg-id="Toei_Channel_1" tvg-name="東映チャンネル" tvg-logo="" group-title="日本,CS,电影",東映チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
+
+#EXTINF:-1 tvg-id="TAKARAZUKA_1" tvg-name="TAKARAZUKA" tvg-logo="" group-title="日本,CS,娱乐",TAKARAZUKA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=4
+
+#EXTINF:-1 tvg-id="Channel_Ginga_1" tvg-name="チャンネル銀河" tvg-logo="" group-title="日本,CS,综合",チャンネル銀河
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=4
+
+#EXTINF:-1 tvg-id="NHK_G_2" tvg-name="NHK G (备用)" tvg-logo="" group-title="日本,综合",NHK G (备用)
+http://vthanh.utako.moe/NHK_G/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_E_2" tvg-name="NHK E (备用)" tvg-logo="" group-title="日本,教育",NHK E (备用)
+http://vthanh.utako.moe/NHK_E/index.m3u8
+
+#EXTINF:-1 tvg-id="Nippon_TV_2" tvg-name="日本テレビ (备用)" tvg-logo="" group-title="日本,综合",日本テレビ (备用)
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="TV_Asahi_2" tvg-name="テレビ朝日 (备用)" tvg-logo="" group-title="日本,综合",テレビ朝日 (备用)
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS_2" tvg-name="TBS (备用)" tvg-logo="" group-title="日本,综合",TBS (备用)
+http://vthanh.utako.moe/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="TV_Tokyo_2" tvg-name="テレビ東京 (备用)" tvg-logo="" group-title="日本,综合",テレビ東京 (备用)
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+
+#EXTINF:-1 tvg-id="Fuji_TV_2" tvg-name="フジテレビ (备用)" tvg-logo="" group-title="日本,综合",フジテレビ (备用)
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_G_3" tvg-name="NHK G (备用2)" tvg-logo="" group-title="日本,综合",NHK G (备用2)
+http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_G_4" tvg-name="NHK G (备用3)" tvg-logo="" group-title="日本,综合",NHK G (备用3)
+http://vthanh.utako.moe:8080/5eb251b5-95b9-46f8-baff-77526687367f.m3u8
+
+#EXTINF:-1 tvg-id="YTV_2" tvg-name="読売テレビ (备用)" tvg-logo="" group-title="日本,关西",読売テレビ (备用)
+http://vthanh.utako.moe/ytv/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC_2" tvg-name="ABCテレビ (备用)" tvg-logo="" group-title="日本,关西",ABCテレビ (备用)
+http://vthanh.utako.moe/abc/index.m3u8
+
+#EXTINF:-1 tvg-id="MBS_2" tvg-name="MBS毎日放送 (备用)" tvg-logo="" group-title="日本,关西",MBS毎日放送 (备用)
+http://vthanh.utako.moe/mbs/index.m3u8
+
+#EXTINF:-1 tvg-id="Kansai_TV_2" tvg-name="関西テレビ (备用)" tvg-logo="" group-title="日本,关西",関西テレビ (备用)
+http://vthanh.utako.moe/kansaitv/index.m3u8
+
+#EXTINF:-1 tvg-id="TV_Osaka_2" tvg-name="テレビ大阪 (备用)" tvg-logo="" group-title="日本,关西",テレビ大阪 (备用)
+http://vthanh.utako.moe/tvo/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_BS_2" tvg-name="NHK BS (备用)" tvg-logo="" group-title="日本,BS",NHK BS (备用)
+http://vthanh.utako.moe/NHK_BS/index.m3u8
+
+#EXTINF:-1 tvg-id="Animax_1" tvg-name="Animax" tvg-logo="" group-title="日本,CS,动画",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+
+#EXTINF:-1 tvg-id="BS11_1" tvg-name="BS11" tvg-logo="" group-title="日本,BS",BS11
+http://luong.utako.moe/bsntva11/index.m3u8
+
+#EXTINF:-1 tvg-id="AT-X_1" tvg-name="AT-X" tvg-logo="" group-title="日本,CS,动画",AT-X
+http://vthanh.utako.moe:8080/5ef84ce6-e7c1-4655-9ca4-97eb65215195.m3u8
+
+#EXTINF:-1 tvg-id="Tokyo_MX1_1" tvg-name="TOKYO MX1 (备用)" tvg-logo="" group-title="日本,综合",TOKYO MX1 (备用)
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+
+#EXTINF:-1 tvg-id="Tokyo_MX2_1" tvg-name="TOKYO MX2" tvg-logo="" group-title="日本,综合",TOKYO MX2
+http://tv.utako.moe/mx2_testsignal/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_BSP4K_1" tvg-name="NHK BSP4K" tvg-logo="" group-title="日本,BS,4K",NHK BSP4K
+http://luong.utako.moe/bsp4k_testsignal/index.m3u8
+
+#EXTINF:-1 tvg-id="AT-X_2" tvg-name="AT-X (备用)" tvg-logo="" group-title="日本,CS,动画",AT-X (备用)
+http://vthanh.utako.moe/AT-X/index.m3u8
+
+#EXTINF:-1 tvg-id="Pigoo_1" tvg-name="Pigoo" tvg-logo="" group-title="日本,CS,娱乐",Pigoo
+http://luong.utako.moe/pigoo/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS_CH1_1" tvg-name="TBS Channel 1" tvg-logo="" group-title="日本,CS,综合",TBS Channel 1
+http://luong.utako.moe/tbsch1/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS_CH2_1" tvg-name="TBS Channel 2" tvg-logo="" group-title="日本,CS,综合",TBS Channel 2
+http://luong.utako.moe/tbsch2/index.m3u8
+
+#EXTINF:-1 tvg-id="Space_Shower_2" tvg-name="Space Shower (备用)" tvg-logo="" group-title="日本,CS,音乐",Space Shower (备用)
+http://luong.utako.moe/spaceshower/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK_BS1_1" tvg-name="NHK BS1" tvg-logo="" group-title="日本,BS",NHK BS1
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="NHK_E_3" tvg-name="NHK教育 (willfonk)" tvg-logo="" group-title="日本,教育",NHK教育 (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="NHK_G_5" tvg-name="NHK総合 (willfonk)" tvg-logo="" group-title="日本,综合",NHK総合 (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="TV_Asahi_3" tvg-name="テレビ朝日 (willfonk)" tvg-logo="" group-title="日本,综合",テレビ朝日 (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="TV_Tokyo_3" tvg-name="テレビ東京 (willfonk)" tvg-logo="" group-title="日本,综合",テレビ東京 (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Nippon_TV_3" tvg-name="日本テレビ (willfonk)" tvg-logo="" group-title="日本,综合",日本テレビ (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Fuji_TV_3" tvg-name="フジテレビ (willfonk)" tvg-logo="" group-title="日本,综合",フジテレビ (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="TBS_3" tvg-name="TBS (willfonk)" tvg-logo="" group-title="日本,综合",TBS (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Nittele_News24_1" tvg-name="日テレNEWS24" tvg-logo="" group-title="日本,新闻",日テレNEWS24
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Nittele_G_Plus_2" tvg-name="日テレジータス (willfonk)" tvg-logo="" group-title="日本,体育",日テレジータス (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Channel_NECO_1" tvg-name="映画・チャンネルNECO" tvg-logo="" group-title="日本,CS,电影",映画・チャンネルNECO
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Super_Drama_TV_1" tvg-name="スーパー！ドラマTV" tvg-logo="" group-title="日本,CS,剧集",スーパー！ドラマTV
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="AXN_1" tvg-name="AXN" tvg-logo="" group-title="日本,CS,剧集",AXN
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="FOX_1" tvg-name="FOX" tvg-logo="" group-title="日本,CS,剧集",FOX
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="CNN_J_1" tvg-name="CNNj" tvg-logo="" group-title="日本,CS,新闻",CNNj
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Music_On_TV_1" tvg-name="エムオン！" tvg-logo="" group-title="日本,CS,音乐",エムオン！
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="LaLa_TV_2" tvg-name="女性ch/LaLa" tvg-logo="" group-title="日本,CS,娱乐",女性ch/LaLa
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="GAORA_2" tvg-name="GAORA (willfonk)" tvg-logo="" group-title="日本,CS,体育",GAORA (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Fishing_Vision_2" tvg-name="釣りビジョン (willfonk)" tvg-logo="" group-title="日本,BS,娱乐",釣りビジョン (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Toei_Channel_2" tvg-name="東映チャンネル (willfonk)" tvg-logo="" group-title="日本,CS,电影",東映チャンネル (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Kayo_Pops_2" tvg-name="歌謡ポップスチャンネル (willfonk)" tvg-logo="" group-title="日本,CS,音乐",歌謡ポップスチャンネル (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
