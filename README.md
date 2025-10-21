@@ -118,7 +118,7 @@ https://www.pantxt.top/f/WnMcD/4.m3u
 本仓库收集的直播源来自多个服务提供商，主要包括：
 
 1. cdns.jp-primehome.com
-2. vthanh.utako.moe
+2. *.utako.moe
 3. luong.utako.moe
 4. stream02.willfonk.com
 5. cookies.elementfx.com
